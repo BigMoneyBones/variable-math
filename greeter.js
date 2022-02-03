@@ -2,5 +2,6 @@ console.log("Im creating a greeter!");
 
 let name = "Jesse";
 
-console.log("Hello" + " " + name + "!");
+console.log("\n");
 
+console.log("Hello" + " " + name + "!");
